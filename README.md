@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irene-reyn
 - 👀 I’m interested in Data Analysis and Visualization with Power Bi, Excel, MySQL, SPSS
 - 🌱 I’m currently learning Python Programming
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to land an analyst role and contribute to project successes
 - 📫 How to reach me ireneagyeman4@gmail.com
 
 <!---
