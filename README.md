@@ -6,15 +6,14 @@
 
 | Data Analyst | Data Engineer | Data Scientist |
 
-Passionate data professional with expertise in transforming raw data into actionable insights. Skilled in utilizing Power BI, Excel, Python, SQL, and SPSS to extract, analyze, and visualize data. Dedicated to uncovering valuable patterns and trends that drive data-informed decision-making. Excited to collaborate on data-driven projects and explore the fascinating world of data analytics.
+Passionate data professional with expertise in transforming raw data into actionable insights. Skilled in utilizing Power BI, Excel, Python, SQL, and SPSS to extract, analyze, and visualize data. Dedicated to uncovering valuable patterns and trends that drive data-informed decision-making. Excited to collaborate on data-driven projects and explore the fascinating world of data.
 
 ## Here's a quick summary about me ##
 - 👋 Hi, I’m Irene Ofori-Agyeman
 - 👀 I’m interested in Data Analysis and Visualization with Power BI, Python, Excel, MySQL, SPSS
-- 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to land an analyst role and contribute to project successes
 - 💼 Job Interests: Data Analyst, Research Analyst, Monitoring and Evaluation, Project Management roles
-- 📫 How to reach me ireneagyeman4@gmail.com
+- 📫 How to reach me [Email](ireneagyeman4@gmail.com)
 
 <!---
 irene-reyn/irene-reyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
