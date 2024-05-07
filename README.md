@@ -13,7 +13,7 @@ Passionate data professional with expertise in transforming raw data into action
 - 👀 I’m interested in Data Analysis and Visualization with Power BI, Python, Excel, MySQL, SPSS
 - 💞️ I’m looking to land an analyst role and contribute to project successes
 - 💼 Job Interests: Data Analyst, Research Analyst, Monitoring and Evaluation, Project Management roles
-- 📫 How to reach me [Email](ireneagyeman4@gmail.com)
+- 📫 Reach me through my [Email](ireneagyeman4@gmail.com)
 
 <!---
 irene-reyn/irene-reyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
