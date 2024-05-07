@@ -4,13 +4,13 @@
  
 # Hi there!👋 Welcome to my GitHub Profile #
 
-📊 Data Analyst | 📈 Power BI | 📊 Excel | 📁 SQL | 📊 SPSS
+| Data Analyst | Data Engineer | Data Scientist |
 
-Passionate data analyst with expertise in transforming raw data into actionable insights. Skilled in utilizing Power BI, Excel, SQL, and SPSS to extract, analyze, and visualize data. Dedicated to uncovering valuable patterns and trends that drive data-informed decision-making. Excited to collaborate on data-driven projects and explore the fascinating world of data analytics.
+Passionate data professional with expertise in transforming raw data into actionable insights. Skilled in utilizing Power BI, Excel, Python, SQL, and SPSS to extract, analyze, and visualize data. Dedicated to uncovering valuable patterns and trends that drive data-informed decision-making. Excited to collaborate on data-driven projects and explore the fascinating world of data analytics.
 
 ## Here's a quick summary about me ##
 - 👋 Hi, I’m Irene Ofori-Agyeman
-- 👀 I’m interested in Data Analysis and Visualization with Power Bi, Excel, MySQL, SPSS
+- 👀 I’m interested in Data Analysis and Visualization with Power BI, Python, Excel, MySQL, SPSS
 - 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to land an analyst role and contribute to project successes
 - 💼 Job Interests: Data Analyst, Research Analyst, Monitoring and Evaluation, Project Management roles
