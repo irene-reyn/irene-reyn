@@ -6,7 +6,7 @@
 
 | Data Analyst | Data Engineer | Data Scientist |
 
-Passionate data professional with expertise in transforming raw data into actionable insights. Skilled in utilizing Power BI, Excel, Python, SQL, and SPSS to extract, analyze, and visualize data. Dedicated to uncovering valuable patterns and trends that drive data-informed decision-making. Excited to collaborate on data-driven projects and explore the fascinating world of data.
+Experience data professional with expertise in transforming raw data into actionable insights. Skilled in utilizing Power BI, Excel, Python, SQL, and SPSS to extract, analyze, and visualize data. Dedicated to uncovering valuable patterns and trends that drive data-informed decision-making. Excited to collaborate on data-driven projects and explore the fascinating world of data.
 
 ## Here's a quick summary about me ##
 - 👋 Hi, I’m Irene Ofori-Agyeman
