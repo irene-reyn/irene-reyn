@@ -4,7 +4,7 @@
  
 # Hi there!👋 Welcome to my GitHub Profile #
 
-| Data Analyst | Data Engineer | AI/ML Engineer
+
 
 
 
