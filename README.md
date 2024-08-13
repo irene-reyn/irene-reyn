@@ -10,7 +10,7 @@
 
 ## Here's a quick summary about me ##
 - 👋 Hi, I’m Irene Ofori-Agyeman
-- 👀 I’m interested in Data Driven and AI/ML projects
+- 👀 I’m interested in Data Driven projects
 - 💞️ I’m looking to land an analyst role and contribute to project successes
 - 💼 Job Interests: Data Analyst, Research Analyst, Data Engineer
 - 📫 Reach me through my [Email](ireneagyeman4@gmail.com)
